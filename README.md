@@ -47,22 +47,11 @@ A full-stack resource management application built with **React, Spring Boot, an
 ⚡ **[Distributed Rate Limiter](https://github.com/SidharthDev3/distributed-rate-limiter-system)**
 A backend system designed to **regulate API traffic across multiple application instances**, enforce configurable request limits, and protect services from excessive traffic.
 
-🧠 **[Data Structures & Algorithms](https://github.com/SidharthDev3/data-structures-algorithm)**
-Java implementations of fundamental **data structures and algorithms**, focused on problem solving and technical interview preparation.
-
 ---
 
 ### 📚 Current Focus
 
 `Backend Engineering` · `System Design` · `Distributed Systems` · `Cloud` · `AI Applications`
-
----
-
-### 🤝 Connect With Me
-
-💻 **GitHub:** [SidharthDev3](https://github.com/SidharthDev3)
-💼 **LinkedIn:** Add your LinkedIn profile
-📧 **Email:** Add your professional email
 
 ---
 
