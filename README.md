@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there 👋, I'm Sidharth Krishna S
 
-<!--
-**SidharthDev3/SidharthDev3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student focused on **full-stack development, backend engineering, and scalable software systems**. I enjoy building practical applications, designing RESTful APIs, and learning how modern software systems are developed and deployed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+* 🔭 Currently building **full-stack and backend applications**
+* 🌱 Currently learning **System Design, Distributed Systems, Docker & Cloud**
+* 💻 Working primarily with **Java, Spring Boot, React, REST APIs & SQL**
+* 🤖 Exploring **AI-powered applications and agent-based systems**
+* 🧠 Strengthening **Data Structures, Algorithms & Problem Solving**
+* 🎯 Aspiring to become a **Full-Stack / Backend Engineer**
+
+---
+
+### 🛠️ Technical Skills
+
+**Languages**
+`Java` · `SQL` · `JavaScript` · `C++` · `Python`
+
+**Backend**
+`Spring Boot` · `Spring Data JPA` · `RESTful APIs` · `Flask` · `Maven`
+
+**Frontend**
+`React` · `HTML` · `CSS` · `Bootstrap`
+
+**Databases**
+`MySQL` · `PostgreSQL` · `Redis`
+
+**Tools**
+`Git` · `GitHub` · `VS Code` · `Postman`
+
+**Core Computer Science**
+`Object-Oriented Programming` · `Data Structures & Algorithms`
+
+---
+
+### 🚀 Featured Projects
+
+📦 **[Resource Management System](https://github.com/SidharthDev3/resource-management-system)**
+A full-stack resource management application built with **React, Spring Boot, and MySQL**, featuring RESTful APIs, CRUD operations, validation, and modular architecture.
+
+⚡ **[Distributed Rate Limiter](https://github.com/SidharthDev3/distributed-rate-limiter-system)**
+A backend system designed to **regulate API traffic across multiple application instances**, enforce configurable request limits, and protect services from excessive traffic.
+
+🧠 **[Data Structures & Algorithms](https://github.com/SidharthDev3/data-structures-algorithm)**
+Java implementations of fundamental **data structures and algorithms**, focused on problem solving and technical interview preparation.
+
+---
+
+### 📚 Current Focus
+
+`Backend Engineering` · `System Design` · `Distributed Systems` · `Cloud` · `AI Applications`
+
+---
+
+### 🤝 Connect With Me
+
+💻 **GitHub:** [SidharthDev3](https://github.com/SidharthDev3)
+💼 **LinkedIn:** Add your LinkedIn profile
+📧 **Email:** Add your professional email
+
+---
+
+⭐ *Building practical software, learning continuously, and improving one project at a time.*
