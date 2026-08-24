@@ -1,19 +1,20 @@
 # Hi there 👋, I'm Sidharth Krishna S
 
-### 💻 Computer Science Student | Full-Stack Developer
+### 💻 Computer Science Student | Backend Developer
 
-I'm a Computer Science student focused on **full-stack development, backend engineering, and scalable software systems**. I enjoy building practical applications, designing RESTful APIs, and learning how modern software systems are developed and deployed.
+I'm a Computer Science student focused on **backend engineering, scalable systems, and API development**. I enjoy designing reliable backend services, working with databases, and exploring how distributed systems are built and optimized.
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🔭 Currently building **full-stack and backend applications**
-* 🌱 Currently learning **System Design, Distributed Systems, Docker & Cloud**
-* 💻 Working primarily with **Java, Spring Boot, React, REST APIs & SQL**
-* 🤖 Exploring **AI-powered applications and agent-based systems**
+* 🔭 Building **backend services, RESTful APIs, and full-stack applications**
+* 🌱 Learning **System Design, Distributed Systems, Docker & Cloud**
+* ☕ Working primarily with **Java, Spring Boot, Spring Data JPA & SQL**
+* ⚡ Interested in **scalable, reliable, and production-ready backend systems**
+* 🤖 Exploring **AI-powered applications and backend integrations**
 * 🧠 Strengthening **Data Structures, Algorithms & Problem Solving**
-* 🎯 Aspiring to become a **Full-Stack / Backend Engineer**
+* 🎯 Aspiring to become a **Backend Engineer**
 
 ---
 
@@ -22,14 +23,14 @@ I'm a Computer Science student focused on **full-stack development, backend engi
 **Languages**
 `Java` · `SQL` · `JavaScript` · `C++` · `Python`
 
-**Backend**
+**Backend & APIs**
 `Spring Boot` · `Spring Data JPA` · `RESTful APIs` · `Flask` · `Maven`
+
+**Databases & Data**
+`MySQL` · `PostgreSQL` · `Redis`
 
 **Frontend**
 `React` · `HTML` · `CSS` · `Bootstrap`
-
-**Databases**
-`MySQL` · `PostgreSQL` · `Redis`
 
 **Tools**
 `Git` · `GitHub` · `VS Code` · `Postman`
@@ -41,18 +42,34 @@ I'm a Computer Science student focused on **full-stack development, backend engi
 
 ### 🚀 Featured Projects
 
-📦 **[Resource Management System](https://github.com/SidharthDev3/resource-management-system)**
-A full-stack resource management application built with **React, Spring Boot, and MySQL**, featuring RESTful APIs, CRUD operations, validation, and modular architecture.
-
 ⚡ **[Distributed Rate Limiter](https://github.com/SidharthDev3/distributed-rate-limiter-system)**
 A backend system designed to **regulate API traffic across multiple application instances**, enforce configurable request limits, and protect services from excessive traffic.
+
+📦 **[Resource Management System](https://github.com/SidharthDev3/resource-management-system)**
+A full-stack application with a **Spring Boot backend, RESTful APIs, MySQL database, and React frontend**, implementing CRUD operations, validation, and modular architecture.
 
 ---
 
 ### 📚 Current Focus
 
-`Backend Engineering` · `System Design` · `Distributed Systems` · `Cloud` · `AI Applications`
+`Backend Engineering` · `REST APIs` · `System Design` · `Distributed Systems` · `Databases` · `Cloud`
 
 ---
 
-⭐ *Building practical software, learning continuously, and improving one project at a time.*
+### 🎯 Engineering Interests
+
+**Backend Architecture**
+→ Designing maintainable and modular services
+
+**API Development**
+→ Building secure, reliable, and well-structured REST APIs
+
+**Distributed Systems**
+→ Understanding scalability, concurrency, caching, and fault tolerance
+
+**Databases**
+→ Working with relational and in-memory data stores
+
+---
+
+⭐ *Building reliable backend systems and continuously improving as an engineer.*
