@@ -2,47 +2,55 @@
 
 ### 💻 Computer Science Student | Backend Developer | Java & Spring Boot
 
-I’m a Computer Science student focused on **backend engineering, API development, and scalable software systems**. I enjoy building reliable backend services, designing RESTful APIs, working with databases, and exploring distributed systems and AI-powered applications.
+I’m a Computer Science student focused on **backend engineering, API development, scalable systems, and modern application architecture**.
+
+I primarily work with **Java and Spring Boot**, building RESTful APIs, database-driven applications, and backend services. I’m also exploring **AI-powered applications, LLM integration, and intelligent backend systems**.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🚀 Building **backend services, REST APIs, and full-stack applications**
-* ☕ Working primarily with **Java, Spring Boot, Spring Data JPA, and SQL**
+* ☕ Building backend applications with **Java, Spring Boot, Spring Data JPA, and SQL**
+* 🔗 Designing and developing **RESTful APIs and backend services**
+* 🗄️ Working with **relational and in-memory databases**
 * 🏗️ Learning **System Design, Distributed Systems, Docker, and Cloud**
-* 🗄️ Interested in **database design, caching, scalability, and performance**
-* 🤖 Exploring **AI integration and AI-powered backend applications**
+* 🤖 Exploring **LLM integration, OpenAI APIs, and Conversational AI**
+* ⚡ Interested in **scalable, reliable, and production-ready systems**
 * 🧠 Strengthening **Data Structures, Algorithms, and Problem Solving**
-* 🎯 Aspiring to build a career as a **Backend Engineer**
+* 🚀 Building projects that combine **backend engineering with emerging AI technologies**
+* 🎯 Aspiring to become a **Backend Engineer**
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Skills
 
 ### 💻 Languages
 
-`Java` `SQL` `JavaScript` `C++` `Python`
+`Java` · `SQL` · `JavaScript` · `Python` · `C++`
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend & APIs
 
-`Spring Boot` `Spring Data JPA` `REST APIs` `Flask` `Maven`
-
-### 🗄️ Databases & Data
-
-`MySQL` `PostgreSQL` `Redis`
+`Spring Boot` · `Spring Data JPA` · `RESTful APIs` · `FastAPI` · `Flask` · `Maven`
 
 ### 🌐 Frontend
 
-`React` `HTML5` `CSS3` `Bootstrap`
+`React` · `HTML5` · `CSS3` · `Bootstrap`
 
-### 🔧 Tools & Platforms
+### 🗄️ Databases
 
-`Git` `GitHub` `Postman` `VS Code`
+`MySQL` · `PostgreSQL` · `Redis`
 
-### 🧠 Core CS
+### 🤖 AI & LLM
 
-`OOP` `Data Structures` `Algorithms` `Problem Solving`
+`OpenAI API` · `LLM Integration` · `GPT-based Models` · `Conversational AI`
+
+### 🔧 Tools & Development
+
+`Git` · `GitHub` · `VS Code` · `Postman`
+
+### 🧠 Core Computer Science
+
+`Object-Oriented Programming` · `Data Structures & Algorithms`
 
 ---
 
@@ -52,15 +60,16 @@ I’m a Computer Science student focused on **backend engineering, API developme
 
 🔗 **[View Repository](https://github.com/SidharthDev3/distributed-rate-limiter-system)**
 
-A backend system designed to **control API traffic across multiple application instances** using configurable request limits.
+A backend system designed to **regulate API traffic across multiple application instances**, enforce configurable request limits, and protect services from excessive traffic.
 
-**Key Concepts:**
+**Focus Areas**
 
-* ⚙️ Distributed request throttling
-* 🚦 API traffic control
-* 📈 Scalability and concurrency
+* 🚦 API rate limiting
+* 🌐 Distributed system concepts
+* ⚡ Concurrent request handling
+* 📈 Scalability
 * 🛡️ Service protection
-* 🧩 Distributed system fundamentals
+* 🧩 Backend architecture
 
 ---
 
@@ -68,22 +77,59 @@ A backend system designed to **control API traffic across multiple application i
 
 🔗 **[View Repository](https://github.com/SidharthDev3/resource-management-system)**
 
-A full-stack application built with a **Spring Boot backend, REST APIs, MySQL, and React**, implementing structured CRUD operations and modular application architecture.
+A full-stack resource management application built with a **Spring Boot backend, RESTful APIs, MySQL database, and React frontend**.
 
-**Key Concepts:**
+**Focus Areas**
 
 * ☕ Spring Boot backend
-* 🔗 RESTful API design
+* 🔗 REST API development
 * 🗄️ MySQL database integration
 * ⚛️ React frontend
-* ✅ Validation and CRUD operations
-* 🧱 Modular architecture
+* ✅ CRUD operations
+* 🧪 API testing and validation
+* 🧱 Modular application architecture
+
+---
+
+## 🤖 AI & Backend Exploration
+
+I’m currently exploring the intersection of **backend engineering and artificial intelligence**, particularly how LLM capabilities can be integrated into real-world applications.
+
+### Areas of Interest
+
+* 🧠 Large Language Models
+* 🔌 OpenAI API Integration
+* 💬 Conversational AI
+* 🔎 Retrieval-Augmented Generation (RAG)
+* ⚙️ AI-powered backend services
+* 🔗 LLM + REST API integration
+* 🗃️ Vector databases and semantic search
+
+The goal is to build **practical AI applications backed by strong backend architecture**, rather than treating AI as a standalone feature.
 
 ---
 
 ## 📚 Currently Learning
 
-`Spring Boot` · `System Design` · `Distributed Systems` · `REST APIs` · `Databases` · `Redis` · `Docker` · `Cloud` · `AI Integration`
+### Backend Engineering
+
+`Spring Boot` · `Spring Data JPA` · `REST APIs` · `API Design`
+
+### System Architecture
+
+`System Design` · `Distributed Systems` · `Caching` · `Concurrency` · `Scalability`
+
+### Databases
+
+`PostgreSQL` · `Redis` · `Data Modeling` · `Query Optimization`
+
+### Cloud & DevOps
+
+`Docker` · `Cloud Computing` · `Deployment` · `CI/CD`
+
+### AI Engineering
+
+`RAG` · `LLM Integration` · `OpenAI APIs` · `Vector Search` · `AI-powered Applications`
 
 ---
 
@@ -91,36 +137,64 @@ A full-stack application built with a **Spring Boot backend, REST APIs, MySQL, a
 
 ### 🏗️ Backend Architecture
 
-Designing **clean, maintainable, and modular backend services**.
+Designing **clean, maintainable, modular, and scalable backend services**.
 
 ### 🔗 API Engineering
 
-Building **reliable, scalable, and well-structured REST APIs**.
+Building **reliable RESTful APIs** with proper validation, error handling, authentication, and structured architecture.
 
 ### 🌐 Distributed Systems
 
-Exploring **scalability, concurrency, caching, fault tolerance, and system reliability**.
+Learning how systems handle **high traffic, concurrency, caching, fault tolerance, and horizontal scaling**.
 
-### 🗄️ Data & Storage
+### 🗄️ Databases
 
-Understanding **relational databases, in-memory data stores, data modeling, and query optimization**.
+Working with **relational databases and in-memory stores**, while improving my understanding of data modeling, indexing, transactions, and query performance.
 
-### 🤖 AI + Backend
+### 🤖 AI-Powered Applications
 
-Exploring how **AI capabilities can be integrated into modern backend applications and APIs**.
+Exploring how **LLMs and AI capabilities can be integrated into backend systems** to build useful, intelligent applications.
 
 ---
 
-## 📊 What I'm Working Toward
+## 🧠 Core Development Philosophy
 
-**Java Backend Engineering → System Design → Distributed Systems → Cloud → AI-Powered Applications**
+```text
+Clean Code
+    ↓
+Strong Backend Fundamentals
+    ↓
+Reliable APIs
+    ↓
+Scalable Architecture
+    ↓
+Distributed Systems
+    ↓
+AI-Powered Applications
+```
+
+I believe strong AI applications still need **strong software engineering underneath them**.
+
+---
+
+## 📈 Current Growth Path
+
+**Java → Spring Boot → Backend Engineering → System Design → Distributed Systems → Cloud → AI Engineering**
+
+---
+
+## 🔭 What I'm Building Toward
+
+My long-term goal is to become a **strong backend engineer capable of designing and building scalable production systems**, while developing expertise in **AI-powered backend applications and modern distributed architectures**.
 
 ---
 
 ## 🤝 Let's Connect
 
-💼 **GitHub:** [SidharthDev3](https://github.com/SidharthDev3)
+💻 **GitHub:** [SidharthDev3](https://github.com/SidharthDev3)
 
-⭐ I’m continuously learning, building, and improving — one backend system at a time.
+📌 **Focus:** Java · Spring Boot · Backend Engineering · REST APIs · System Design · Distributed Systems · AI Integration
 
-> **Build. Learn. Scale. Repeat. 🚀**
+---
+
+⭐ **Building reliable systems. Learning continuously. Engineering for scale. 🚀**
