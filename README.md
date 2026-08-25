@@ -1,75 +1,126 @@
-# Hi there 👋, I'm Sidharth Krishna S
+# 👋 Hi, I'm Sidharth Krishna S
 
-### 💻 Computer Science Student | Backend Developer
+### 💻 Computer Science Student | Backend Developer | Java & Spring Boot
 
-I'm a Computer Science student focused on **backend engineering, scalable systems, and API development**. I enjoy designing reliable backend services, working with databases, and exploring how distributed systems are built and optimized.
-
----
-
-### 👨‍💻 About Me
-
-* 🔭 Building **backend services, RESTful APIs, and full-stack applications**
-* 🌱 Learning **System Design, Distributed Systems, Docker & Cloud**
-* ☕ Working primarily with **Java, Spring Boot, Spring Data JPA & SQL**
-* ⚡ Interested in **scalable, reliable, and production-ready backend systems**
-* 🤖 Exploring **AI-powered applications and backend integrations**
-* 🧠 Strengthening **Data Structures, Algorithms & Problem Solving**
-* 🎯 Aspiring to become a **Backend Engineer**
+I’m a Computer Science student focused on **backend engineering, API development, and scalable software systems**. I enjoy building reliable backend services, designing RESTful APIs, working with databases, and exploring distributed systems and AI-powered applications.
 
 ---
 
-### 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-**Languages**
-`Java` · `SQL` · `JavaScript` · `C++` · `Python`
-
-**Backend & APIs**
-`Spring Boot` · `Spring Data JPA` · `RESTful APIs` · `Flask` · `Maven`
-
-**Databases & Data**
-`MySQL` · `PostgreSQL` · `Redis`
-
-**Frontend**
-`React` · `HTML` · `CSS` · `Bootstrap`
-
-**Tools**
-`Git` · `GitHub` · `VS Code` · `Postman`
-
-**Core Computer Science**
-`Object-Oriented Programming` · `Data Structures & Algorithms`
+* 🚀 Building **backend services, REST APIs, and full-stack applications**
+* ☕ Working primarily with **Java, Spring Boot, Spring Data JPA, and SQL**
+* 🏗️ Learning **System Design, Distributed Systems, Docker, and Cloud**
+* 🗄️ Interested in **database design, caching, scalability, and performance**
+* 🤖 Exploring **AI integration and AI-powered backend applications**
+* 🧠 Strengthening **Data Structures, Algorithms, and Problem Solving**
+* 🎯 Aspiring to build a career as a **Backend Engineer**
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Technical Stack
 
-⚡ **[Distributed Rate Limiter](https://github.com/SidharthDev3/distributed-rate-limiter-system)**
-A backend system designed to **regulate API traffic across multiple application instances**, enforce configurable request limits, and protect services from excessive traffic.
+### 💻 Languages
 
-📦 **[Resource Management System](https://github.com/SidharthDev3/resource-management-system)**
-A full-stack application with a **Spring Boot backend, RESTful APIs, MySQL database, and React frontend**, implementing CRUD operations, validation, and modular architecture.
+`Java` `SQL` `JavaScript` `C++` `Python`
 
----
+### ⚙️ Backend & Frameworks
 
-### 📚 Current Focus
+`Spring Boot` `Spring Data JPA` `REST APIs` `Flask` `Maven`
 
-`Backend Engineering` · `REST APIs` · `System Design` · `Distributed Systems` · `Databases` · `Cloud`
+### 🗄️ Databases & Data
 
----
+`MySQL` `PostgreSQL` `Redis`
 
-### 🎯 Engineering Interests
+### 🌐 Frontend
 
-**Backend Architecture**
-→ Designing maintainable and modular services
+`React` `HTML5` `CSS3` `Bootstrap`
 
-**API Development**
-→ Building secure, reliable, and well-structured REST APIs
+### 🔧 Tools & Platforms
 
-**Distributed Systems**
-→ Understanding scalability, concurrency, caching, and fault tolerance
+`Git` `GitHub` `Postman` `VS Code`
 
-**Databases**
-→ Working with relational and in-memory data stores
+### 🧠 Core CS
+
+`OOP` `Data Structures` `Algorithms` `Problem Solving`
 
 ---
 
-⭐ *Building reliable backend systems and continuously improving as an engineer.*
+## 🚀 Featured Projects
+
+### ⚡ Distributed Rate Limiter
+
+🔗 **[View Repository](https://github.com/SidharthDev3/distributed-rate-limiter-system)**
+
+A backend system designed to **control API traffic across multiple application instances** using configurable request limits.
+
+**Key Concepts:**
+
+* ⚙️ Distributed request throttling
+* 🚦 API traffic control
+* 📈 Scalability and concurrency
+* 🛡️ Service protection
+* 🧩 Distributed system fundamentals
+
+---
+
+### 📦 Resource Management System
+
+🔗 **[View Repository](https://github.com/SidharthDev3/resource-management-system)**
+
+A full-stack application built with a **Spring Boot backend, REST APIs, MySQL, and React**, implementing structured CRUD operations and modular application architecture.
+
+**Key Concepts:**
+
+* ☕ Spring Boot backend
+* 🔗 RESTful API design
+* 🗄️ MySQL database integration
+* ⚛️ React frontend
+* ✅ Validation and CRUD operations
+* 🧱 Modular architecture
+
+---
+
+## 📚 Currently Learning
+
+`Spring Boot` · `System Design` · `Distributed Systems` · `REST APIs` · `Databases` · `Redis` · `Docker` · `Cloud` · `AI Integration`
+
+---
+
+## 🎯 Engineering Interests
+
+### 🏗️ Backend Architecture
+
+Designing **clean, maintainable, and modular backend services**.
+
+### 🔗 API Engineering
+
+Building **reliable, scalable, and well-structured REST APIs**.
+
+### 🌐 Distributed Systems
+
+Exploring **scalability, concurrency, caching, fault tolerance, and system reliability**.
+
+### 🗄️ Data & Storage
+
+Understanding **relational databases, in-memory data stores, data modeling, and query optimization**.
+
+### 🤖 AI + Backend
+
+Exploring how **AI capabilities can be integrated into modern backend applications and APIs**.
+
+---
+
+## 📊 What I'm Working Toward
+
+**Java Backend Engineering → System Design → Distributed Systems → Cloud → AI-Powered Applications**
+
+---
+
+## 🤝 Let's Connect
+
+💼 **GitHub:** [SidharthDev3](https://github.com/SidharthDev3)
+
+⭐ I’m continuously learning, building, and improving — one backend system at a time.
+
+> **Build. Learn. Scale. Repeat. 🚀**
