@@ -1,24 +1,40 @@
 # Sidharth Krishna S
 
-Software Engineer specializing in Java backend architecture, distributed systems, and reliable API design. Focused on building deterministic, maintainable, and high-performance server-side software.
+**Aspiring Software Developer | Backend Systems & Architecture**
+
+I am a Computer Science student dedicated to building robust, high-performance software systems. My core focus centers on **Java, Spring Boot, RESTful API design, relational databases, and scalable backend architecture**. I prioritize clean code principles, system reliability, and maintainable software engineering.
 
 ---
 
-### Overview
+### Focus & Expertise
 
-* **Core Focus:** Enterprise Java development, Spring ecosystem architecture, and scalable microservices.
-* **Data Engineering:** Schema design, transaction management, and low-latency caching strategies using PostgreSQL, MySQL, and Redis.
-* **Systems Design:** Applied studies in distributed computing, concurrency paradigms, and fault-tolerant architecture.
-* **Applied AI:** Augmenting backend services with LLM orchestration and Retrieval-Augmented Generation (RAG) pipelines.
+* **Backend Development:** Building scalable architectures using **Java & Spring Boot**
+* **API Architecture:** Designing and consuming secure, production-ready **RESTful APIs**
+* **Data Management & Caching:** Schema design and optimization with **PostgreSQL, MySQL, and Redis**
+* **System Foundations:** Studying system design, distributed architectures, and concurrent systems
+* **Core CS:** Applying **Data Structures, Algorithms, and Object-Oriented Design** to solve complex problems
+* **Applied AI:** Integrating **LLM APIs and RAG workflows** into software solutions
 
 ---
 
-### Technical Competencies
+### Technical Proficiencies
 
-| Category | Technologies & Concepts |
+| Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Java, SQL, Python, C++, JavaScript |
-| **Backend & Frameworks** | Spring Boot, Spring Data JPA, REST APIs, FastAPI, Maven |
-| **Data & Storage** | PostgreSQL, MySQL, Redis |
-| **Engineering Foundations** | Data Structures & Algorithms, OOP, Distributed Systems, System Design |
-| **Tooling & Environments** | Git, GitHub, Docker, Postman, Linux |
+| **Backend Frameworks** | Spring Boot, Spring Data JPA, REST APIs, FastAPI, Flask, Maven |
+| **Databases & Cache** | PostgreSQL, MySQL, Redis |
+| **Core Foundations** | Data Structures & Algorithms, OOP, System Design, Distributed Systems |
+| **Applied AI** | OpenAI API, LLM Integration, Retrieval-Augmented Generation (RAG) |
+| **Developer Tools** | Git, GitHub, Postman, VS Code |
+| **Frontend Basics** | React, HTML5, CSS3, Bootstrap |
+
+---
+
+### Current Trajectory
+
+`Software Architecture` • `System Design` • `Java Backend Systems` • `Applied LLM Integrations`
+
+---
+
+> *“Simplicity, reliability, and precision in software engineering.”*
