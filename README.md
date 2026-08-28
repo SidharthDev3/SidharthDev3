@@ -22,17 +22,3 @@ Software Engineer specializing in Java backend architecture, distributed systems
 | **Data & Storage** | PostgreSQL, MySQL, Redis |
 | **Engineering Foundations** | Data Structures & Algorithms, OOP, Distributed Systems, System Design |
 | **Tooling & Environments** | Git, GitHub, Docker, Postman, Linux |
-
----
-
-### Featured Work & Repositories
-
-<!-- Replace placeholders with your actual repository links and descriptions -->
-* **[Repository Name]** — Brief one-line summary of architecture, throughput, or engineering focus. *(Java, Spring Boot, PostgreSQL)*
-* **[Repository Name]** — Brief one-line summary of distributed or API design implementation. *(Java, Redis, Docker)*
-
----
-
-### Connect
-
-[LinkedIn](https://linkedin.com/in/your-profile) &nbsp;•&nbsp; [Email](mailto:your-email@domain.com) &nbsp;•&nbsp; [Portfolio](https://yourportfolio.com)
