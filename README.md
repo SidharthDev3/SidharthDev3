@@ -45,22 +45,6 @@ I enjoy building **clean, reliable, and maintainable backend applications** whil
 
 ---
 
-## 🚀 Featured Projects
-
-### ⚡ Distributed Rate Limiter
-
-A backend system for **controlling API traffic across multiple application instances** with configurable request limits.
-
-🔗 [View Project](https://github.com/SidharthDev3/distributed-rate-limiter-system)
-
-### 📦 Resource Management System
-
-A full-stack application with a **Spring Boot backend, REST APIs, MySQL, and React**, implementing CRUD operations and validation.
-
-🔗 [View Project](https://github.com/SidharthDev3/resource-management-system)
-
----
-
 ## 🎯 Current Focus
 
 `Java` · `Spring Boot` · `Backend Engineering` · `REST APIs` · `SQL` · `System Design` · `Distributed Systems`
